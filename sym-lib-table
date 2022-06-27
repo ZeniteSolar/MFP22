@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name zenite_fonte)(type Legacy)(uri "C:/Users/G1545 LITE/Documents/zenite/estagio/fonte_18V/zenite_fonte.lib")(options "")(descr ""))
+  (lib (name fonte_18V-rescue)(type Legacy)(uri ${KIPRJMOD}/fonte_18V-rescue.lib)(options "")(descr ""))
+)

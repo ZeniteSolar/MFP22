@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name KicadZeniteSolarLibrary18)(type KiCad)(uri ${KIPRJMOD}/KicadZeniteSolarLibrary18.pretty)(options "")(descr ""))
+  (lib (name MFP19RJ45)(type KiCad)(uri ${KIPRJMOD}/MFP19RJ45.pretty)(options "")(descr ""))
+)
