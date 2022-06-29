@@ -441,6 +441,18 @@
     [
       "9e36fad9-6a27-4e29-b71c-a5fae878aad0",
       ""
+    ],
+    [
+      "f584877a-9f43-4db0-b0ea-63e7b7af9907",
+      "supply1"
+    ],
+    [
+      "a726f3f2-444c-4a10-bd64-2db6ff8fb652",
+      "supply2"
+    ],
+    [
+      "a66a98b3-f66d-451d-a53e-b1f1000ce4cf",
+      "CAN"
     ]
   ],
   "text_variables": {}
