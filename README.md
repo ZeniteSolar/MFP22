@@ -7,8 +7,9 @@ Equipe Zênite Solar
 
 Este módulo é responsável por fornecer uma tensao fixa e estavel de 18V para alimentaçao dos modulos que estao na rede CAN
 
-![](https://github.com/ZeniteSolar/MFP19/blob/master/IMG/3DDOWN.png?raw=true)
-![](https://github.com/ZeniteSolar/MFP19/blob/master/IMG/3DUP.png)
+### Images
+<img style="background-color:white"  src="img/top.jpeg" alt="board" align="center" width="600"/>
+<img style="background-color:white"  src="img/bottom.jpeg" alt="board" align="center" width="600"/>
 
 
 #### Requisitos e Abordagens
@@ -28,13 +29,13 @@ Este módulo é responsável por fornecer uma tensao fixa e estavel de 18V para 
 **CI Ultilizado: Conversor LMR16030**
 [Datasheet](https://www.ti.com/lit/ds/symlink/lmr16030.pdf?ts=1596324314390&ref_url=https%253A%252F%252Fwww.google.com%252F)
 
-![](https://github.com/ZeniteSolar/MFP19/blob/master/%20datasheet%20(Rev%20A)%20-%20lmr16030%20pdf.png?raw=true)
+![](project/datasheet_lmr16030.png)
 
 #### Projeto do Indutor
 
    -seleção do indutor de saida:
 
-![](https://github.com/ZeniteSolar/MFP19/blob/master/equa%C3%A7%C3%A3o%20sele%C3%A7ao%20de%20indutor?raw=true)
+![](project/Inductor_Equation.png)
 
 
 
